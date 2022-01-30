@@ -1,4 +1,4 @@
-from slap_that_like_button import LikeState, slap_many
+from slapping.slap_that_like_button import LikeState, slap_many
 
 
 def test_slaps():
