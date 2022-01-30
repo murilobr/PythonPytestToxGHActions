@@ -1,3 +1,5 @@
 .venv
 .coverage
+.python-version
+.tox
 *.egg-info
